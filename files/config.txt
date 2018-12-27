@@ -1,0 +1,12 @@
+size_x
+0
+size_y
+0
+keepRatio
+1
+nb_symbols
+0
+inputFile
+..\\..\\files\\test.png
+outputFile
+..\\..\\files\\output.txt
